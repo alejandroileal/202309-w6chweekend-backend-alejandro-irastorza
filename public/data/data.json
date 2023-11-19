@@ -1,0 +1,6 @@
+{
+  "things": [
+    { "id": 0, "thing": "Express" },
+    { "id": 1, "thing": "Node" }
+  ]
+}
